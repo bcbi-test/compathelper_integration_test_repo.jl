@@ -18,7 +18,7 @@ Ext = ["BioSequences", "DataFrames", "Flux", "IterableTables", "Nettle_jll", "PG
 
 [compat]
 IterableTables = "1"
-PGFPlotsX = "~1.0.0"
+PGFPlotsX = "1"
 julia = "1.2"
 
 [extras]
