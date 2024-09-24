@@ -14,7 +14,7 @@ PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
 Ext = "PGFPlotsX"
 
 [compat]
-PGFPlotsX = "~1.0.0"
+PGFPlotsX = "1"
 Plots = "1"
 julia = "1.2"
 
